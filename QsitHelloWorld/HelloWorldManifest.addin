@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>QshitHelloWorld</Name>
+		<Assembly>QsitHelloWorld.dll</Assembly>
+		<AddInId>A8F49095-CF3C-4776-8FF9-747161EEA1F1</AddInId>
+		<FullClassName>QsitHelloWorld.HelloWorld</FullClassName>
+		<Text>QsitHelloWorld</Text>
+		<Description>A simple Visual Studio add-in.</Description>
+		<VendorId>AhmedAbdElazizQSIT</VendorId>
+		<VendorDescription>Your Company Description</VendorDescription>
+	</AddIn>
+</RevitAddIns>
+

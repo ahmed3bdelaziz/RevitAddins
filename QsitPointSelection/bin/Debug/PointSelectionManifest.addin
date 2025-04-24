@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>QsitPointSelection</Name>
+		<Assembly>QsitPointSelection.dll</Assembly>
+		<AddInId>F9F5B146-F72E-4523-A6A7-BF4789530E6F</AddInId>
+		<FullClassName>QsitPointSelection.PointSelection</FullClassName>
+		<Text>Qsit Point Selection</Text>
+		<Description>Allows the user to select points in Revit using Midpoint, Endpoint, and Nearest snaps.</Description>
+		<VendorId>AhmedAbdElazizQSIT</VendorId>
+		<VendorDescription>Your Company Description</VendorDescription>
+	</AddIn>
+</RevitAddIns>

@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIZ TRAINING\\Bim Development\\QsitHelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B13290-2788-428B-8EF9-892BA97B14B1}|QsitHelloWorld.csproj|D:\\GIZ TRAINING\\Bim Development\\QsitHelloWorld\\helloworldmanifest.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A0B13290-2788-428B-8EF9-892BA97B14B1}|QsitHelloWorld.csproj|solutionrelative:helloworldmanifest.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|QsitHelloWorld||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B13290-2788-428B-8EF9-892BA97B14B1}|QsitHelloWorld.csproj|d:\\giz training\\bim development\\qsithelloworld\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B13290-2788-428B-8EF9-892BA97B14B1}|QsitHelloWorld.csproj|solutionrelative:helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B13290-2788-428B-8EF9-892BA97B14B1}|QsitHelloWorld.csproj|d:\\giz training\\bim development\\qsithelloworld\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QsitHelloWorld",
+              "DocumentMoniker": "D:\\GIZ TRAINING\\Bim Development\\QsitHelloWorld\\QsitHelloWorld.csproj",
+              "RelativeDocumentMoniker": "QsitHelloWorld.csproj",
+              "ToolTip": "D:\\GIZ TRAINING\\Bim Development\\QsitHelloWorld\\QsitHelloWorld.csproj",
+              "RelativeToolTip": "QsitHelloWorld.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-16T17:46:33.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorldManifest.addin",
+              "DocumentMoniker": "D:\\GIZ TRAINING\\Bim Development\\QsitHelloWorld\\HelloWorldManifest.addin",
+              "RelativeDocumentMoniker": "HelloWorldManifest.addin",
+              "ToolTip": "D:\\GIZ TRAINING\\Bim Development\\QsitHelloWorld\\HelloWorldManifest.addin",
+              "RelativeToolTip": "HelloWorldManifest.addin",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
+              "WhenOpened": "2025-04-16T17:10:37.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloWorld.cs",
+              "DocumentMoniker": "D:\\GIZ TRAINING\\Bim Development\\QsitHelloWorld\\HelloWorld.cs",
+              "RelativeDocumentMoniker": "HelloWorld.cs",
+              "ToolTip": "D:\\GIZ TRAINING\\Bim Development\\QsitHelloWorld\\HelloWorld.cs",
+              "RelativeToolTip": "HelloWorld.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:49:25.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

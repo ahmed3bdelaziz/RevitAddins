@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QsitPointSelection", "QsitPointSelection.csproj", "{A0F2FF7C-834E-4731-BCA0-A6E12C8E974B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0F2FF7C-834E-4731-BCA0-A6E12C8E974B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F2FF7C-834E-4731-BCA0-A6E12C8E974B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F2FF7C-834E-4731-BCA0-A6E12C8E974B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F2FF7C-834E-4731-BCA0-A6E12C8E974B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {530D212C-EA8F-4D8F-A0B6-D0108403C718}
+	EndGlobalSection
+EndGlobal

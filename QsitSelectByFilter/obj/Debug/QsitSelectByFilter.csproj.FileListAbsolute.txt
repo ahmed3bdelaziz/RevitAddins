@@ -1,0 +1,14 @@
+D:\GIZ TRAINING\Bim Development\QsitSelectByFilter\bin\Debug\SelectFilteredManifest.addin
+D:\GIZ TRAINING\Bim Development\QsitSelectByFilter\bin\Debug\QsitSelectByFilter.dll
+D:\GIZ TRAINING\Bim Development\QsitSelectByFilter\bin\Debug\QsitSelectByFilter.pdb
+D:\GIZ TRAINING\Bim Development\QsitSelectByFilter\obj\Debug\QsitSelectByFilter.csproj.AssemblyReference.cache
+D:\GIZ TRAINING\Bim Development\QsitSelectByFilter\obj\Debug\QsitSelectByFilter.csproj.CoreCompileInputs.cache
+D:\GIZ TRAINING\Bim Development\QsitSelectByFilter\obj\Debug\QsitSelectByFilter.dll
+D:\GIZ TRAINING\Bim Development\QsitSelectByFilter\obj\Debug\QsitSelectByFilter.pdb
+E:\GIZ TRAINING\Bim Development\Tasks-AhmedAbdElaziz\QsitSelectByFilter\bin\Debug\SelectFilteredManifest.addin
+E:\GIZ TRAINING\Bim Development\Tasks-AhmedAbdElaziz\QsitSelectByFilter\bin\Debug\QsitSelectByFilter.dll
+E:\GIZ TRAINING\Bim Development\Tasks-AhmedAbdElaziz\QsitSelectByFilter\bin\Debug\QsitSelectByFilter.pdb
+E:\GIZ TRAINING\Bim Development\Tasks-AhmedAbdElaziz\QsitSelectByFilter\obj\Debug\QsitSelectByFilter.csproj.AssemblyReference.cache
+E:\GIZ TRAINING\Bim Development\Tasks-AhmedAbdElaziz\QsitSelectByFilter\obj\Debug\QsitSelectByFilter.csproj.CoreCompileInputs.cache
+E:\GIZ TRAINING\Bim Development\Tasks-AhmedAbdElaziz\QsitSelectByFilter\obj\Debug\QsitSelectByFilter.dll
+E:\GIZ TRAINING\Bim Development\Tasks-AhmedAbdElaziz\QsitSelectByFilter\obj\Debug\QsitSelectByFilter.pdb

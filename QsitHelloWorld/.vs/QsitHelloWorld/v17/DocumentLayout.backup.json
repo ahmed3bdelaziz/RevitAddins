@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIZ TRAINING\\Bim Development\\QsitHelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B13290-2788-428B-8EF9-892BA97B14B1}|QsitHelloWorld.csproj|D:\\GIZ TRAINING\\Bim Development\\QsitHelloWorld\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B13290-2788-428B-8EF9-892BA97B14B1}|QsitHelloWorld.csproj|solutionrelative:helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B13290-2788-428B-8EF9-892BA97B14B1}|QsitHelloWorld.csproj|d:\\giz training\\bim development\\qsithelloworld\\helloworldmanifest.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A0B13290-2788-428B-8EF9-892BA97B14B1}|QsitHelloWorld.csproj|solutionrelative:helloworldmanifest.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorldManifest.addin",
+              "DocumentMoniker": "D:\\GIZ TRAINING\\Bim Development\\QsitHelloWorld\\HelloWorldManifest.addin",
+              "RelativeDocumentMoniker": "HelloWorldManifest.addin",
+              "ToolTip": "D:\\GIZ TRAINING\\Bim Development\\QsitHelloWorld\\HelloWorldManifest.addin",
+              "RelativeToolTip": "HelloWorldManifest.addin",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
+              "WhenOpened": "2025-04-16T17:10:37.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorld.cs",
+              "DocumentMoniker": "D:\\GIZ TRAINING\\Bim Development\\QsitHelloWorld\\HelloWorld.cs",
+              "RelativeDocumentMoniker": "HelloWorld.cs",
+              "ToolTip": "D:\\GIZ TRAINING\\Bim Development\\QsitHelloWorld\\HelloWorld.cs",
+              "RelativeToolTip": "HelloWorld.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:49:25.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

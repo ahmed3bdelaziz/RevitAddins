@@ -1,0 +1,7 @@
+D:\GIZ TRAINING\Bim Development\QsitHelloWorld\bin\Debug\HelloWorldManifest.addin
+D:\GIZ TRAINING\Bim Development\QsitHelloWorld\bin\Debug\QsitHelloWorld.dll
+D:\GIZ TRAINING\Bim Development\QsitHelloWorld\bin\Debug\QsitHelloWorld.pdb
+D:\GIZ TRAINING\Bim Development\QsitHelloWorld\obj\Debug\QsitHelloWorld.csproj.AssemblyReference.cache
+D:\GIZ TRAINING\Bim Development\QsitHelloWorld\obj\Debug\QsitHelloWorld.csproj.CoreCompileInputs.cache
+D:\GIZ TRAINING\Bim Development\QsitHelloWorld\obj\Debug\QsitHelloWorld.dll
+D:\GIZ TRAINING\Bim Development\QsitHelloWorld\obj\Debug\QsitHelloWorld.pdb

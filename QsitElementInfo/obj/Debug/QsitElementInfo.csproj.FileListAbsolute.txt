@@ -1,0 +1,7 @@
+D:\GIZ TRAINING\Bim Development\QsitElementInfo\bin\Debug\QsitElementInfo.dll
+D:\GIZ TRAINING\Bim Development\QsitElementInfo\bin\Debug\QsitElementInfo.pdb
+D:\GIZ TRAINING\Bim Development\QsitElementInfo\obj\Debug\QsitElementInfo.csproj.AssemblyReference.cache
+D:\GIZ TRAINING\Bim Development\QsitElementInfo\obj\Debug\QsitElementInfo.csproj.CoreCompileInputs.cache
+D:\GIZ TRAINING\Bim Development\QsitElementInfo\obj\Debug\QsitElementInfo.dll
+D:\GIZ TRAINING\Bim Development\QsitElementInfo\obj\Debug\QsitElementInfo.pdb
+D:\GIZ TRAINING\Bim Development\QsitElementInfo\bin\Debug\ElementInfoManifest.addin

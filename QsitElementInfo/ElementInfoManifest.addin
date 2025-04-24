@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>QsitElementInfo</Name>
+		<Assembly>QsitElementInfo.dll</Assembly>
+		<AddInId>BA839FF7-4F88-497C-862B-FA3F55163D91</AddInId>
+		<FullClassName>QsitElementInfo.GetElementinfo</FullClassName>
+		<Text>Qsit Element Info</Text>
+		<Description>Allows the user to select an element and view its ID, instance name, type name, family name, and category.</Description>
+		<VendorId>AhmedAbdElazizQSIT</VendorId>
+		<VendorDescription>Your Company Description</VendorDescription>
+	</AddIn>
+</RevitAddIns>

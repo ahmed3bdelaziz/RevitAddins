@@ -1,0 +1,7 @@
+D:\GIZ TRAINING\Bim Development\QsitPointSelection\bin\Debug\PointSelectionManifest.addin
+D:\GIZ TRAINING\Bim Development\QsitPointSelection\bin\Debug\QsitPointSelection.dll
+D:\GIZ TRAINING\Bim Development\QsitPointSelection\bin\Debug\QsitPointSelection.pdb
+D:\GIZ TRAINING\Bim Development\QsitPointSelection\obj\Debug\QsitPointSelection.csproj.AssemblyReference.cache
+D:\GIZ TRAINING\Bim Development\QsitPointSelection\obj\Debug\QsitPointSelection.csproj.CoreCompileInputs.cache
+D:\GIZ TRAINING\Bim Development\QsitPointSelection\obj\Debug\QsitPointSelection.dll
+D:\GIZ TRAINING\Bim Development\QsitPointSelection\obj\Debug\QsitPointSelection.pdb

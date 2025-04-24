@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIZ TRAINING\\Bim Development\\QsitElementInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6788B2CC-9E51-44DE-AE5B-AB4ABADDD799}|QsitElementInfo.csproj|d:\\giz training\\bim development\\qsitelementinfo\\getelementinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6788B2CC-9E51-44DE-AE5B-AB4ABADDD799}|QsitElementInfo.csproj|solutionrelative:getelementinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6788B2CC-9E51-44DE-AE5B-AB4ABADDD799}|QsitElementInfo.csproj|D:\\GIZ TRAINING\\Bim Development\\QsitElementInfo\\elementinfomanifest.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6788B2CC-9E51-44DE-AE5B-AB4ABADDD799}|QsitElementInfo.csproj|solutionrelative:elementinfomanifest.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|QsitElementInfo||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QsitElementInfo",
+              "DocumentMoniker": "D:\\GIZ TRAINING\\Bim Development\\QsitElementInfo\\QsitElementInfo.csproj",
+              "RelativeDocumentMoniker": "QsitElementInfo.csproj",
+              "ToolTip": "D:\\GIZ TRAINING\\Bim Development\\QsitElementInfo\\QsitElementInfo.csproj",
+              "RelativeToolTip": "QsitElementInfo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-16T19:00:31.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElementInfoManifest.addin",
+              "DocumentMoniker": "D:\\GIZ TRAINING\\Bim Development\\QsitElementInfo\\ElementInfoManifest.addin",
+              "RelativeDocumentMoniker": "ElementInfoManifest.addin",
+              "ToolTip": "D:\\GIZ TRAINING\\Bim Development\\QsitElementInfo\\ElementInfoManifest.addin",
+              "RelativeToolTip": "ElementInfoManifest.addin",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
+              "WhenOpened": "2025-04-16T18:12:19.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetElementinfo.cs",
+              "DocumentMoniker": "D:\\GIZ TRAINING\\Bim Development\\QsitElementInfo\\GetElementinfo.cs",
+              "RelativeDocumentMoniker": "GetElementinfo.cs",
+              "ToolTip": "D:\\GIZ TRAINING\\Bim Development\\QsitElementInfo\\GetElementinfo.cs",
+              "RelativeToolTip": "GetElementinfo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:55:42.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

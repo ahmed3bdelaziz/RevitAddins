@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>QsitSelectByFilter</Name>
+		<Assembly>QsitSelectByFilter.dll</Assembly>
+		<AddInId>1CE28688-9D53-4213-A263-6F9AA1B0226E</AddInId>
+		<FullClassName>QsitSelectByFilter.SelectFiltered</FullClassName>
+		<Text>Qsit Select By Filter</Text>
+		<Description>Allows the user to select elements in Revit by a filter (in this case, walls).</Description>
+		<VendorId>AhmedAbdElazizQSIT</VendorId>
+		<VendorDescription>Your Company Description</VendorDescription>
+	</AddIn>
+</RevitAddIns>
