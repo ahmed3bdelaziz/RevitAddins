@@ -1,12 +1,38 @@
 # Revit Add-ins
 
-This repository contains a collection of Revit add-ins developed in C#. These add-ins are designed to enhance the functionality and productivity of Autodesk Revit, offering custom tools and automations for various workflows.
+A collection of Autodesk Revit add-ins developed in C# to automate BIM tasks and enhance productivity. These tools are designed to streamline workflows, reduce repetitive tasks, and improve efficiency for Revit users.
+
+## Add-ins Overview
+
+### 1. **QSIT Element Info**
+Displays detailed information about a selected Revit element, including:
+- **Element ID**
+- **Name**
+- **Type**
+- **Family**
+- **Category**
+
+This tool is ideal for quickly retrieving and understanding element properties.
+
+### 2. **QSIT HelloWorld**
+A simple yet functional example add-in that displays a "Hello World" message dialog in Revit. This is a great starting point for understanding how Revit add-ins work.
+
+### 3. **QSIT Point Selection**
+Allows users to pick specific points in a Revit model, including:
+- **Midpoint**
+- **Endpoint**
+- **Nearest Point**
+
+The coordinates of the selected points are displayed, enabling precise point-based workflows.
+
+### 4. **QSIT Select by Filter**
+Selects and counts wall elements within a user-defined rectangular area using a custom filter. This tool is essential for quick and efficient element selection and quantification.
 
 ## Features
 
-- **Custom Tools**: Extend the capabilities of Revit with specialized tools.
-- **Workflow Automation**: Automate repetitive tasks to save time and reduce errors.
-- **Open-Source**: This repository is open for contributions and collaboration.
+- **Automation**: Simplifies complex and repetitive tasks by automating BIM workflows.
+- **Clean Architecture**: Designed using Revit API and .NET best practices for scalability and maintainability.
+- **Productivity Enhancement**: Speeds up various Revit operations, from element selection to property analysis.
 
 ## Installation
 
@@ -23,7 +49,11 @@ This repository contains a collection of Revit add-ins developed in C#. These ad
 
 1. Open Autodesk Revit.
 2. Access the installed add-ins from the **Add-Ins** tab in the Revit ribbon.
-3. Use the provided tools to enhance your workflows.
+3. Use the respective tools:
+   - **QSIT Element Info**: Select an element to view its details.
+   - **QSIT HelloWorld**: Click to display a "Hello World" message.
+   - **QSIT Point Selection**: Pick points in the model and view their coordinates.
+   - **QSIT Select by Filter**: Define a rectangular area to filter and count wall elements.
 
 ## Contributing
 
@@ -49,4 +79,4 @@ For any questions or suggestions, feel free to reach out:
 - **Author**: Ahmed Abdelaziz
 - **GitHub**: [ahmed3bdelaziz](https://github.com/ahmed3bdelaziz)
 
-
+---
