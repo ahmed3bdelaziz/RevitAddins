@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>QsitDeleteSelectedElement</Name>
+		<Assembly>QsitDeleteSelectedElement.dll</Assembly>
+		<AddInId>40629727-764E-48C2-84DC-55E6F2527E15</AddInId>
+		<FullClassName>QsitDeleteSelectedElement.DeleteSelectedElement</FullClassName>
+		<Text>Qsit Delete Selected Element</Text>
+		<Description>Deletes selected element in Revit.</Description>
+		<VendorId>AhmedAbdElazizQSIT</VendorId>
+		<VendorDescription>Your Company Description</VendorDescription>
+	</AddIn>
+
+	<AddIn Type="Command">
+		<Name>QsitDeleteWindowsByRectangle</Name>
+		<Assembly>QsitDeleteSelectedElement.dll</Assembly>
+		<AddInId>EB487071-32C4-4056-9688-428838786A4B</AddInId>
+
+		<FullClassName>QsitDeleteSelectedElement.DeleteWindowsByRectangle</FullClassName>
+		<Text>Delete Windows By Rectangle</Text>
+		<Description>Select and delete all windows within a drawn rectangle.</Description>
+		<VendorId>AhmedAbdElazizQSIT</VendorId>
+		<VendorDescription>QSIT Solutions</VendorDescription>
+	</AddIn>
+
+	
+</RevitAddIns>

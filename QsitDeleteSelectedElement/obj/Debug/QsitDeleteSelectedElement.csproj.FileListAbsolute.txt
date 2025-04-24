@@ -1,0 +1,7 @@
+E:\GIZ TRAINING\Bim Development\Tasks-AhmedAbdElaziz\QsitDeleteSelectedElement\bin\Debug\DeleteSelectedElementManifest.addin
+E:\GIZ TRAINING\Bim Development\Tasks-AhmedAbdElaziz\QsitDeleteSelectedElement\bin\Debug\QsitDeleteSelectedElement.dll
+E:\GIZ TRAINING\Bim Development\Tasks-AhmedAbdElaziz\QsitDeleteSelectedElement\bin\Debug\QsitDeleteSelectedElement.pdb
+E:\GIZ TRAINING\Bim Development\Tasks-AhmedAbdElaziz\QsitDeleteSelectedElement\obj\Debug\QsitDeleteSelectedElement.csproj.AssemblyReference.cache
+E:\GIZ TRAINING\Bim Development\Tasks-AhmedAbdElaziz\QsitDeleteSelectedElement\obj\Debug\QsitDeleteSelectedElement.csproj.CoreCompileInputs.cache
+E:\GIZ TRAINING\Bim Development\Tasks-AhmedAbdElaziz\QsitDeleteSelectedElement\obj\Debug\QsitDeleteSelectedElement.dll
+E:\GIZ TRAINING\Bim Development\Tasks-AhmedAbdElaziz\QsitDeleteSelectedElement\obj\Debug\QsitDeleteSelectedElement.pdb
