@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>QsitColumnPlacer</Name>
+		<Assembly>QsitColumnAutomator.dll</Assembly>
+		<AddInId>38597656-DCAB-4F4F-B2D4-6C023A253AB5</AddInId>
+		<FullClassName>QsitColumnAutomator.ColumnPlacer</FullClassName>
+		<Text>Place Random Columns</Text>
+		<Description>Places Random Columns on specific level</Description>
+		<VendorId>AhmedAbdElazizQSIT</VendorId>
+		<VendorDescription>Your Company Description</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>QsitColumnAutomator</Name>
+		<Assembly>QsitColumnAutomator.dll</Assembly>
+		<AddInId>4A015A01-FE32-4B3A-AA1E-0C64F2E85F6D</AddInId>
+		<FullClassName>QsitColumnAutomator.AssignRandomComments</FullClassName>
+		<Text>Assign Comments to Columns</Text>
+		<Description>Select columns and assign random comments or custom input.</Description>
+		<VendorId>AhmedAbdElazizQSIT</VendorId>
+		<VendorDescription>QSIT Solutions</VendorDescription>
+	</AddIn>
+
+	<AddIn Type="Command">
+		<Name>QsitColumnPreview</Name>
+		<Assembly>QsitColumnAutomator.dll</Assembly>
+		<AddInId>DD33CF2E-D231-4A56-8B2F-A8BB69C7D55C</AddInId>
+		<FullClassName>QsitColumnAutomator.PreviewColumnsTaskDialog</FullClassName>
+		<Text>Preview Columns</Text>
+		<Description>Displays all structural columns in a TaskDialog with main details and comments.</Description>
+		<VendorId>AhmedAbdElazizQSIT</VendorId>
+		<VendorDescription>QSIT Solutions</VendorDescription>
+	</AddIn>
+
+</RevitAddIns>

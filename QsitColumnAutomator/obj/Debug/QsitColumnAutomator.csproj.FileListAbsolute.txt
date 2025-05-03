@@ -1,0 +1,7 @@
+C:\Users\Ahmed\Desktop\Bim Dvelopment\RevitAddins\QsitColumnAutomator\bin\Debug\ColumnAutomatorManifest.addin
+C:\Users\Ahmed\Desktop\Bim Dvelopment\RevitAddins\QsitColumnAutomator\bin\Debug\QsitColumnAutomator.dll
+C:\Users\Ahmed\Desktop\Bim Dvelopment\RevitAddins\QsitColumnAutomator\bin\Debug\QsitColumnAutomator.pdb
+C:\Users\Ahmed\Desktop\Bim Dvelopment\RevitAddins\QsitColumnAutomator\obj\Debug\QsitColumnAutomator.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\Bim Dvelopment\RevitAddins\QsitColumnAutomator\obj\Debug\QsitColumnAutomator.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\Bim Dvelopment\RevitAddins\QsitColumnAutomator\obj\Debug\QsitColumnAutomator.dll
+C:\Users\Ahmed\Desktop\Bim Dvelopment\RevitAddins\QsitColumnAutomator\obj\Debug\QsitColumnAutomator.pdb
